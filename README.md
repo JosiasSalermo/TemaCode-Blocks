@@ -3,6 +3,7 @@
 
 1. No Campo de Pesquisa do Windows, digite:   
 __%appdata__  
+![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/1_adddata.jpg)
 2. Vai até a pasta do __Code::Blocks__
 3. Cole o arquivo __dafaut__ substituindo-o
 4. Reabra o __Code::Blocks__
