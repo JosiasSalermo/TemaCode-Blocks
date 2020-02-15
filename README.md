@@ -29,7 +29,7 @@ __%appdata%__
 5. Na barra de ferramenta vai até __Settings__ > __Editor...__
 
 
-![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/4_editor.jpg)
+![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/5_Syntax.jpg)
 
 
 
