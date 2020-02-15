@@ -1,7 +1,7 @@
 # Temas Code::Blocks
 
-0. Baixe o arquivo 
-[default](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/default.conf)
+0. Baixe o arquivo e descompacte
+[default](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/default.rar)
 
 
 1. No Campo de Pesquisa do Windows, digite:   
