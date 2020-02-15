@@ -25,18 +25,18 @@ __%appdata%__
 
 4. Reabra o __Code::Blocks__
 
+![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/4_editor.jpg)
+
 
 5. Na barra de ferramenta vai até __Settings__ > __Editor...__
 
-
-![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/5_Syntax.jpg)
 
 
 
 6. No lado esquedo, selecione __Syntax highlihgting__
 
 
-![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/5_Syntax.jpg)
+![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/5_sublime.jpg)
 
 
 7. Na parte de cima irá ter a opção:
