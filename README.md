@@ -1,5 +1,8 @@
 # Temas Code::Blocks
 
+0. Baixe o arquivo 
+[default](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/default.conf)
+
 
 1. No Campo de Pesquisa do Windows, digite:   
 __%appdata__  
@@ -14,7 +17,7 @@ __%appdata__
 ![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/2_pasta.jpg)
 
 
-3. Cole o arquivo __dafaut__ substituindo-o
+3. Substitua o arquivo __default__ 
 
 
 ![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/3_substituir.jpg)
