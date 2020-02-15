@@ -5,7 +5,7 @@
 
 
 1. No Campo de Pesquisa do Windows, digite:   
-__%appdata__  
+__%appdata%__  
 
 
 ![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/1_adddata.jpg)  
