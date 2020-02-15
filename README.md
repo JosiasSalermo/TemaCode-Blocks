@@ -26,10 +26,11 @@ __%appdata__
 4. Reabra o __Code::Blocks__
 
 
+5. Na barra de ferramenta vai até __Settings__ > __Editor...__
+
+
 ![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/4_editor.jpg)
 
-
-5. Na barra de ferramenta vai até __Settings__ > __Editor...__
 
 
 6. No lado esquedo, selecione __Syntax highlihgting__
