@@ -3,18 +3,26 @@
 
 1. No Campo de Pesquisa do Windows, digite:   
 __%appdata__  
+
+
 ![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/1_adddata.jpg)  
 
 
 2. Vai até a pasta do __Code::Blocks__
+
+
 ![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/2_pasta.jpg)
 
 
 3. Cole o arquivo __dafaut__ substituindo-o
+
+
 ![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/3_substituir.jpg)
 
 
 4. Reabra o __Code::Blocks__
+
+
 ![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/4_editor.jpg)
 
 
@@ -22,6 +30,8 @@ __%appdata__
 
 
 6. No lado esquedo, selecione __Syntax highlihgting__
+
+
 ![](https://github.com/JosiasSalermo/TemaCode-Blocks/blob/master/img/5_Syntax.jpg)
 
 
